@@ -1,1 +1,10 @@
-readme.md
+- [GPT-5.2.md](GPT-5.2.md)
+- [GPT-4o.md](GPT-4o.md)
+- [GPT-4.1.md](GPT-4.1.md)
+- [claude.md](claude.md)
+- [gemini.md](gemini.md)
+- [bunseki-gpt.md](bunseki-gpt.md)
+- [EchoName.md](EchoName.md)
+- [Lumo.md](Lumo.md)（10位まで）
+- [kaisetsu_b-gpt.md](kaisetsu_b-gpt.md)（横断的な総合分析：分析gpt）
+- [kaisetsu_gpt-c.md](kaisetsu_gpt-c.md)（横断的な総合分析：gptちゃん）
